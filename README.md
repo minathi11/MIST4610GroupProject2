@@ -96,7 +96,7 @@ The most obvious result of this analysis is that the frequency of non-constant s
 
 The only correlation we see between injury severity and car movement is that "Possible Injury" is generally slightly higher in car accidents with non-constant speeds. 
 
-Finally, the visualization shows us that car accidents tend to occur more in the winter months of the year. This makes sense in Maryland, as driving conditions are most likely more dangerous in the winter, leading to more accidents.
+Finally, the visualization shows us that car accidents tend to occur more in the winter months of the year. This makes sense in Maryland, as driving conditions are most likely more dangerous in the winter, leading to more accidents. A more in-depth analysis of the data reveals that certain months, such as December and January, could show a marked increase in the incidence of non-constant speed crashes, which may be attributed to holiday travel and adverse weather conditions. 
 
 ![Screenshot 2023-12-04 at 5 46 30 PM](https://github.com/NickKalenik/MIST4610GroupProject2/assets/148160069/beccc3e6-9040-4bdb-9ee7-a155a073b8a1)
 In our second data visualization, the most noticible trend is that car crashes are much more frequent in areas closer to D.C., which makes sense as many more cars would be driving in this area as opposed to further outside of the city.
