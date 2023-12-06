@@ -92,7 +92,7 @@ When applying this calculated field to our models, we filtered out "N/A", "OTHER
 
 ## Analysis & Results
 ![Screenshot 2023-12-04 at 5 39 21 PM](https://github.com/NickKalenik/MIST4610GroupProject2/assets/148160069/c37d04ec-745a-4bec-8f86-d08226635640)
-The most obvious result of this analysis is that the frequency of non-constant speed car crashes is always higher than the frequency of constant speed crashes, indicating that variable speeds contribute to a higher risk of crashes across all severity categories. This result makes sense, as it is much more likely for a car to be turning, accelerating, or decelerating as opposed to driving at a constant speed when in an accident. 
+The most obvious result of this analysis is that the frequency of non-constant speed car crashes is always higher than the frequency of constant speed crashes, indicating that variable speeds contribute to a higher risk of crashes across all severity categories. This result makes sense, as it is much more likely for a car to be turning, accelerating, or decelerating as opposed to driving at a constant speed when in an accident. The red segments, representing fatal crashes, although smaller in comparison to other severities, are an important visual element. Their presence in the non-constant speed section underscores the critical nature of speed variation in the severity of accidents.
 
 The only correlation we see between injury severity and car movement is that "Possible Injury" is generally slightly higher in car accidents with non-constant speeds. 
 
